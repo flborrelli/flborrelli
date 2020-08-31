@@ -1,6 +1,6 @@
 ### Hello, I'm  Fernando! Welcome 👋
 
-:computer: &nbsp; Software Developer - JavaScript | React | Node.js <br>
+:computer: &nbsp; Software Developer - JavaScript | TypeScript| React | Node.js <br>
 :earth_americas: &nbsp; São Paulo, Brasil
 
 ### Find me around
