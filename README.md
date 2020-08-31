@@ -16,5 +16,5 @@
 :soccer: &nbsp; :ocean: &nbsp; Love soccer and surf<br>
 
 
-Thank you for the visit!
+Thank you for your visit!
 
