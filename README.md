@@ -11,7 +11,7 @@
 
 :office: &nbsp; Currently working at [Basement](https://www.basement.io) as Trainee Software Developer<br>
 :mortar_board: &nbsp; Ironhack Web Development Bootcamp<br>
-:books: &nbsp; Studying Ruby on Rails, React Hooks, TypeScript and Test with Jest<br>
+:books: &nbsp; Studying React Hooks, TypeScript and Test with Jest<br>
 :smiley: &nbsp; Fun fact: I'm a lawyer<br>
 :soccer: &nbsp; :ocean: &nbsp; Love soccer and surf<br>
 
