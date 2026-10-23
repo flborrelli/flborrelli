@@ -9,11 +9,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-flborrelli@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flborrelli@gmail.com)](mailto:flborrelli@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@feborrelli-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/feborrelli/)](https://www.instagram.com/feborrelli/) 
 
-:office: &nbsp; Currently working at [Basement](https://www.basement.io) as Trainee Software Developer<br>
+:office: &nbsp; Currently working at [Exto](https://www.exto.com.br) as Specialist<br>
 :mortar_board: &nbsp; Ironhack Web Development Bootcamp<br>
 :books: &nbsp; Studying React Hooks, TypeScript and Test with Jest<br>
 :smiley: &nbsp; Fun fact: I'm a lawyer<br>
-:soccer: &nbsp; :ocean: &nbsp; Love soccer and surf<br>
+:soccer: &nbsp; :ocean: &nbsp; Love soccer and surfing<br>
 
 
 Thank you for your visit!
